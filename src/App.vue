@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
     <nav class="navbar bg-primary" data-bs-theme="dark">
   <div class="container-fluid">
-    <img url="https://cdn-icons-png.flaticon.com/512/4358/4358610.png " width="70" height="70" alt="" title="" class="img-small">
+    <img src="../src/assets/quran.png" width="70" height="70" alt="" title="" class="img-small">
     <a class="navbar-brand" href="/" >Al-Qur'an Digital</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
